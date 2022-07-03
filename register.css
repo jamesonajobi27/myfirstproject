@@ -1,0 +1,23 @@
+.container{
+  display:flex;
+  background:lightblue;
+  justify-content:space-around;
+  padding:10px;
+}
+a{
+  text-decoration:none;
+  color: #078ccf;
+}
+
+input{
+  width: 50%;
+padding:10px;
+  
+}
+body{
+   background-image: url("simon.jpg");
+    height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

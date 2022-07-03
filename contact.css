@@ -1,0 +1,17 @@
+.container{
+  display:flex;
+  background:lightblue;
+  justify-content:space-around;
+  padding:10px;
+}
+a{
+  text-decoration:none;
+  color: #078ccf;
+}
+body{
+  background-image:url("sam.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

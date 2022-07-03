@@ -1,0 +1,28 @@
+.container{
+  display:flex;
+  background:lightblue;
+  justify-content:space-around;
+  padding:10px;
+}
+a{
+  text-decoration:none;
+  color: #078ccf;
+}
+h1{ 
+  color:  #078ccf;
+ text-align: center;
+} 
+h2{
+  color: #078ccf;
+}
+  table, th,tr ,td{
+        border: 1px solid hsl(340, 61%, 47%);
+        width: 400px;
+        text-align: center;
+        background-color: wheat;
+    }
+.center{
+  width:300px;
+  margin-left:70%;
+  border:2px lightblue;
+}
